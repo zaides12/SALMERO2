@@ -1,0 +1,240 @@
+#lotustitle {
+	text-align: center;
+	font-family: 'Courier New', monospace;
+	border: 2px solid white;
+	padding: 10px;
+
+
+}
+
+#lotus{
+	text-align: center;
+	color: #E75480;
+	font-size: 30px;
+
+}
+
+/* ALL IMAGES OF LOTUS */
+.IMG
+{
+    float: center;
+    width:  25%;
+    height: 25%;
+    object-fit: cover;
+    padding: 50px;
+
+}
+
+#elem {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.td {font-size: 100%;
+	text-align: center;
+}
+
+
+#elem, .th, .td{
+	border: solid white;
+
+}
+
+.TB {
+    float: center;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+
+}
+
+.th, .td {
+
+	padding: 15px;
+}
+
+#bg {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+/* INDEX */
+
+#navindex {
+
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+.navindex {
+        text-decoration: none;
+        display: block;
+        padding: 17px;
+        text-align: center;
+        color: #464141;
+        margin: 0;
+        font-family: sans-serif;
+        width:14%;
+      }
+
+.navindex:hover 
+    {
+        background-color: #AA336A;
+        color: #000000;
+      }
+      
+
+/* ELEMENTARY */
+
+#navelem {
+
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+
+.nav1{
+        text-decoration: none;
+        display: block;
+        padding: 17px;
+        text-align: center;
+        color: #464141;
+        margin: 0;
+        font-family: sans-serif;
+        width:14%;
+      }
+
+.nav1:hover 
+    {
+        background-color: #87CEEB;
+        color: #000000;
+      }
+
+#title {
+font-family: 'Copperplate';"
+}
+
+sup {
+  color: #FFD700;
+}
+
+.bold {
+  color: #0000FF;font-size: 150%;
+}
+
+#p1 {
+  font-family: 'Courier New', monospace;
+  font-size: 170%; 
+  color: #000000;}
+
+.borderblue {
+  color: #0000FF;
+}
+
+.borderyellow { 
+  color: #FFD700;
+}
+
+h3 {
+  font-family: 'Courier New', monospace;
+  font-size: 200%;
+  text-align: center;
+}
+
+#pelem{
+  font-family: 'Copperplate',monospace; 
+  font-size: 150%;
+  border: 5px solid deepskyblue;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Copperplate';
+}
+
+#end {
+  color: #FFD700;
+}
+
+.end { 
+  color:#0000FF ; 
+  font-size: 150%;
+
+}
+
+h5 {
+  font-family: 'Courier New', monospace;
+  border: 2px solid dodgerblue;
+  padding: 10px;
+}
+
+.sampol {
+  background-color: #87CEEB;
+}
+
+img {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mypic {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+}
+
+.links {
+    float: center;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+table {
+  border-spacing: 50px;
+  width: 100%;
+}
+
+td {font-size: 120%;
+  text-align: center;
+
+}
+
+#p2 { 
+    font-size: 120%;
+    color: black;
+    border: 3px solid dodgerblue;
+    padding: 20px;
+
+
+}
+
+.contactabout
+{
+    text-align: center;
+}
+
+.PICS
+{
+    float: center;
+    width:  25%;
+    height: 25%;
+    object-fit: cover;
+}
+
+#p23
+{
+    color: #000000:;
+}
+.CENTER 
+{
+    border: 3px solid;
+    padding: 10px;
+}
+
